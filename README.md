@@ -1,4 +1,1 @@
-# GITHUB PAGE
-
-Let's wait for something interesting to show up right here.
-
+Some interesting things are going to show up
