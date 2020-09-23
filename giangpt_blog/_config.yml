@@ -22,7 +22,7 @@ title: Giangpt's Blog
 email: giangphamtruong.xyz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello!! Tôi là Giang, 20 tuổi, không bị chú đầu trọc săn đuổi
-baseurl: "giangpt_blog" # the subpath of your site, e.g. /blog
+baseurl: "giangTPham.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: giang
 github_username:  giangTpham
